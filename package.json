@@ -1,13 +1,13 @@
 {
-  "name": "EXITBOT",
+  "name": "simple-steam-idler",
   "version": "1.0.0",
-  "description": "EXITBOT",
+  "description": "24/7 Steam ingame time idler (simple version)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "EXITBOT",
+  "author": "https://github.com/Gunthersuper",
   "license": "ISC",
   "dependencies": {
     "steam-totp": "^2.1.2",
